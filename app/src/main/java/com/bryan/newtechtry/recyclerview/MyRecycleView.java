@@ -1,7 +1,7 @@
 package com.bryan.newtechtry.recyclerview;
 
 import android.content.Context;
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 import android.util.AttributeSet;
 
 public class MyRecycleView extends RecyclerView {

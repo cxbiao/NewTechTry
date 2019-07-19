@@ -2,10 +2,11 @@ package com.bryan.newtechtry.rxjava;
 
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.bryan.newtechtry.R;
 import com.bryan.newtechtry.utils.KLog;
