@@ -1,1 +1,5 @@
-include ':app'
+if(isAlone=="true")
+    include ':app', ':annotations', ':compiler', ':annotations_api'
+else
+    include ':app'
+
